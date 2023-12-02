@@ -1,3 +1,4 @@
+![](https://static.wikia.nocookie.net/blue-archive/images/a/a6/Game_Dev_Icon.png/revision/latest?cb=20220315142702)
 # 💫 About Me:
 I'm a student, OSU player, Blue Archive, and FGO player!
 
