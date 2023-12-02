@@ -10,7 +10,7 @@ I'm a student, OSU player, Blue Archive, and FGO player!
 
 ## ☕ Buy me a coffee:
 If you like my projects, you can buy me a coffee at:
-![Ko-fi](https://ko-fi.com/shikihtm)
+> [Ko-fi](https://ko-fi.com/shikihtm)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ShikiHTM&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
