@@ -8,7 +8,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ShikiHTM&color=f68eff)
 
-### Hi there 👋
+### Hi mates 👋
 
 > I'm last year highschool student, I have a passionate with algorithm and Blue Archive ⚡
 
