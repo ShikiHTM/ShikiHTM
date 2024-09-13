@@ -10,7 +10,7 @@
 
 ### Hi mates 👋
 
-> I'm last year highschool student, I have a passionate with algorithm and Blue Archive ⚡
+> I'm a student of TDT University, I have a passionate with algorithm and Blue Archive ⚡
 
 <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShikiHTM&layout=compact">
 
