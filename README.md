@@ -1,8 +1,6 @@
 <p align="center">
   <img alt="Win Variation" src="https://user-images.githubusercontent.com/55708473/219477117-bbd9b2d9-123f-4f7b-afbf-48292c94ff0c.png">
 </p>
-
-<img align=right src="https://github-readme-stats.vercel.app/api?username=ShikiHTM&show_icons=true&theme=swift">
  
 # Shiki Hotome 🔭
 
@@ -11,8 +9,6 @@
 ### Hi mates 👋
 
 > I'm a student of TDT University, I have a passionate with algorithm and Blue Archive ⚡
-
-<img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShikiHTM&layout=compact">
 
 - Win Variation my Beloved
 - Developer / Programmer
