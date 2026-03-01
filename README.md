@@ -14,7 +14,7 @@
 
 <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShikiHTM&layout=compact">
 
-- Momoi my Beloved
+- Win Variation my Beloved
 - Developer / Programmer
 - I'd to solve cp problems
 
