@@ -20,7 +20,3 @@
 ## ☕ Buy me a coffee
 🎉If you like my projects, you can buy me a coffee at:
 * [Ko-fi](https://ko-fi.com/shikihtm)
-
-# 📌 My beloved Project
-
-[![Momoi-Bot](https://github-readme-stats.vercel.app/api/pin/?username=ShikiHTM&repo=Momoi-Bot)](https://github.com/ShikiHTM/Momoi-Bot)
