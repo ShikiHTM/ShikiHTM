@@ -8,11 +8,11 @@
 
 ### Hi mates 👋
 
-> I'm a student of TDT University, I have a passionate with algorithm and Blue Archive ⚡
+> I'm currently an undergraduate student at TDT University and a Fate/Grand Order player ⚡
 
-- Win Variation my Beloved
-- Developer / Programmer
-- I'd to solve cp problems
+- I have a [personal blog](https://shikii.dev) where I shared my knowledge or thought at everything!
+- Working at @Soralia_Studio
+- Feel free to contact me at anytime via `phamnguyenkhanhdang123@gmail.com`
 
 # 🌱 Programing Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
