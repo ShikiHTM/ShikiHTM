@@ -10,7 +10,7 @@
 
 > I'm currently an undergraduate student at TDT University and a Fate/Grand Order player ⚡
 
-- I have a [personal blog](https://shikii.dev) where I shared my knowledge or thought at everything!
+- I have a [personal blog](https://shikii.dev) where I share my knowledge and thoughts on everything!
 - Working at @Soralia_Studio
 - Feel free to contact me at anytime via `phamnguyenkhanhdang123@gmail.com`
 
